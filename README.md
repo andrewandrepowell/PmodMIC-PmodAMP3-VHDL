@@ -1,2 +1,2 @@
-# PmodMIC-VHDL
-A VHDL module to drive the Digilent PmodMIC.
+# PmodMIC-PmodAMP3-VHDL
+VHDL modules to drive the Digilent PmodMIC and PmodAMP3 peripherals.
